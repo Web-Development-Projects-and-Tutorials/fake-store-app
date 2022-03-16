@@ -11,7 +11,7 @@ This is simple store app made using API
 
 ## Project
 
-https://gradient-generator-bg.netlify.app
+https://web-development-projects-and-tutorials.github.io/fake-store-app/
 
 
 ## Tech Stack
@@ -56,7 +56,7 @@ Contributions are always welcome!
 6) Make some commits (aka do the work) and push to the github.
 ## Contributors
 
-![GitHub Contributors Image](https://contrib.rocks/image?repo=Manoj_Rathod/Gradient_Generator)
+![GitHub Contributors Image](https://contrib.rocks/image?repo=Manoj_Rathod/Fake_Store_App)
 ### Repository View Counter - HITS
 ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/Tanu-N-Prabhu/Python)
 ## License
